@@ -1,1 +1,1 @@
-# Alqoritmika
+# SimplePageForTask
